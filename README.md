@@ -12,7 +12,7 @@ So, I told ChatGPT the goal of my little application just as stated above.
 
 And... ChatGPT guided me through the entire process. &nbsp;From creating a new Windows Forms app with VSCode, installing required components in VSCode, running compile / execute from terminal session, troubleshooting to the final working state. &nbsp; The total time I spent for this to do what I want is around 2-4 hours.
 
-If I was to DIY myself with Googling and StackOverflow, it probably would take me a week.
+If I were to DIY myself with Googling and StackOverflow, it probably would take me a week.
 
 It is amazing.  &nbsp;In no time, I just become a 50% engineer!
 
